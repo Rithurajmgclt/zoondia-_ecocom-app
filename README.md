@@ -6,3 +6,5 @@ create superuser using command "python manage.py createsuperuser"
 user create api open api 
 all other api are restricted
 generate tocken and start using
+########################################
+swagger url:http://127.0.0.1:8000/swagger/
